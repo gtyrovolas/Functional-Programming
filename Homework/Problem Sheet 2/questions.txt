@@ -1,0 +1,15 @@
+1) Examples of non strict functions not of the type f x = c
+2) Polymorphic values and examples
+3) Why can't there exist functions with infinite arguments
+
+
+
+
+
+
+
+
+
+
+
+
